@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AUnicornWithNoLife&theme=tokyonight" alt="languages" height="165">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AUnicornWithNoLife&layout=compact&theme=tokyonight" alt="languages" height="165">
